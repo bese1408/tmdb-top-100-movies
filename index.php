@@ -1,4 +1,5 @@
 <?php
+// index.php file
 require_once 'ini/config.php';
 
 $movies = new movies();
